@@ -6,7 +6,7 @@ This repository contains the experiments or practicals done during lab sessions 
 
 ---
 
-1	_Write a program to convert rupees to dollar. 60 rupees=1 dollar
+1	_Write a program to convert rupees to dollar. 60 rupees=1 dollar_
 
 2	_Write a program that calculate percentage marks of the student if marks of 6 subjects are given._
 
